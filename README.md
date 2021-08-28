@@ -33,7 +33,9 @@ Caso o código pedir alguma permissão a não ser a do Teclado avise o Dev
 # Linguagens utilizadas
 
 • **Python 100%**
+
 • Java 0%
+
 • Outros 0%
 
 # Como Executar o Código!
