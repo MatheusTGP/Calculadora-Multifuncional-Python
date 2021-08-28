@@ -10,7 +10,7 @@ No Código será executa em Python algumas funções que permite que o usuário
 Habilite o Teclado para digitar o Valor e os Cálculos da Soma.
 
 Nisso fazendo com que o código execute uma Calculadora que Calcula o valor inserido!
-O código pode ser executado pela extensão ** .PY ** sendo assim você necessita uma IDE ou SHELL 
+O código pode ser executado pela extensão *.PY* sendo assim você necessita uma IDE ou SHELL 
 Para executar o código em Python! Em breve possoe estar colocando esse código em ** .EXE **
 
 # Licenças
@@ -38,7 +38,7 @@ Caso o código pedir alguma permissão a não ser a do Teclado avise o Dev
 
 # Como Executar o Código!
 
-- ** Instale o Python em sua Máquina ou Smartphone **
-- ** Baixe o Arquivo .PY no lançamento **
-- ** Abra o arquivo na IDE, Shell, Terminal do Python
-- ** Aguarde o código ser Carregado e Utilize-o **
+- Instale o Python em sua Máquina ou Smartphone
+- Baixe o Arquivo .PY no lançamento
+- Abra o arquivo na IDE, Shell, Terminal do Python
+- Aguarde o código ser Carregado e Utilize-o
