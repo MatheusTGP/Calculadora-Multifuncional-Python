@@ -11,7 +11,7 @@ Habilite o Teclado para digitar o Valor e os Cálculos da Soma.
 
 Nisso fazendo com que o código execute uma Calculadora que Calcula o valor inserido!
 O código pode ser executado pela extensão *.PY* sendo assim você necessita uma IDE ou SHELL 
-Para executar o código em Python! Em breve possoe estar colocando esse código em ** .EXE **
+Para executar o código em Python! Em breve possoe estar colocando esse código em **.EXE**
 
 # Licenças
 
