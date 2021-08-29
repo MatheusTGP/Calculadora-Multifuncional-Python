@@ -1,3 +1,7 @@
+# @Autor: MatheusTGamerPro
+# @GitHub: https://github.com//MatheusTGamerPro
+# @100% Python
+
 import time
 print('======[ Menu_Inicial ]======')
 valor1 = int(input("[ Valor1 ]: "))
