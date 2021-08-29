@@ -1,3 +1,4 @@
+![Calculadora](calculator.gif)
 # Sobre nós
 
 Ola, meu nome é Matheus é nesse código eu Produzo uma calculadora
