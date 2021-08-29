@@ -44,3 +44,10 @@ Caso o código pedir alguma permissão a não ser a do Teclado avise o Dev
 - **Baixe o Arquivo .PY no lançamento**
 - **Abra o arquivo na IDE, Shell, Terminal do Python**
 - **Aguarde o código ser Carregado e Utilize-o**
+
+# Bibliotecas
+
+As bibliotecas que você precisara sera a "Time" Somente esta
+Você ira necessitar para executar o codigo, caso você não tenha instalado execute
+
+`pip install time`
