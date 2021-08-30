@@ -1,3 +1,5 @@
+`[ =====[ Calculadora MultiFuncional ]==== ]`
+
 ![Calculadora](calculator.gif)
 # Sobre nós
 
@@ -52,3 +54,21 @@ As bibliotecas que você precisara sera a "Time" Somente esta
 Você ira necessitar para executar o codigo, caso você não tenha instalado execute
 
 `pip install time`
+
+# Desenvolvimento
+
+Python Version: **v3.8.3**
+
+IDLE: **PyDroid 3 + Libraries**
+
+Android_Version: **7.1.2** (Utilizada)
+
+Não delete os Créditos e CopyRigths!
+
+# Lançamentos
+
+**V1** - Pré-Lançado
+
+**V2** - Lançado
+
+
