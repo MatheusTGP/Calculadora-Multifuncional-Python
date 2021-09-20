@@ -17,5 +17,5 @@ jobs:
       - name: Gerar Executavel EXE
         run: pyinstaller --onefile Calculadora_2.0.py
       - name: Salvar Arquivo EXE
-        run |
+        run: |
            Python instalador_exe.py
