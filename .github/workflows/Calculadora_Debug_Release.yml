@@ -1,4 +1,4 @@
-name: Calculadora_Debug_v2
+name: Calculadora_Executavel
 
 on: [push]
 
@@ -12,6 +12,7 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - name: Executar Calculadora
-        run: |
-          python Calculadora_2.0.py
+      - name: Instalar Módulo PYinstaller
+        run: pip install pyinstaller
+      - name: Gerar Executavel EXE
+        run: pyinstaller --onefile Calculadora_2.0.py
