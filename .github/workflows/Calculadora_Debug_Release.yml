@@ -1,4 +1,4 @@
-name: Calculadora_Executavel
+name: Calculadora_Executavel_EXE
 
 on: [push]
 
@@ -16,6 +16,4 @@ jobs:
         run: pip install pyinstaller
       - name: Gerar Executavel EXE
         run: pyinstaller --onefile Calculadora_2.0.py
-      - name: Salvar Arquivo EXE
-        run: |
-           Python instalador_exe.py
+  # Executavel EXE sera Gerado...
