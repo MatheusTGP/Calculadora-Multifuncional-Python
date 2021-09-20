@@ -1,6 +1,7 @@
 # @Autor: MatheusTGamerPro
 # @GitHub: https://github.com//MatheusTGamerPro
 # @100% Python
+import __main__
 import time
 while True:
 	print('\n ================[ Calculadora Multifuncional V² ]=====================')
