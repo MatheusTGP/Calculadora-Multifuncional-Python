@@ -14,4 +14,4 @@ jobs:
           python-version: 3.8
       - name: Executar Calculadora
         run: |
-          python Calculadora Release.py
+          python Calculadora Release_2.0.py
